@@ -1,0 +1,90 @@
+{
+    "question": [
+        "请简述本文的发表时间。",
+        "本文第一作者的工作单位是什么？",
+        "该文章发表在哪个期刊的哪个部分？",
+        "《大豆产量形成生理学》一文的发表时间是什么时候？",
+        "作者们致力于什么方面的作物改良？",
+        "植物育种家提高作物产量的方法是什么？",
+        "分子机制如何影响植物生理过程？",
+        "哪些基因和途径对产量潜力有贡献？",
+        "作物产量生理学的基础分子机制是什么？",
+        "作物生理与产量限制过程分子机制是什么？"
+    ],
+    "answer": [
+        "本文的发表时间为2021年11月15日。",
+        "本文第一作者的工作单位是BASF Corporation或其子公司。",
+        "该文章发表在期刊《Frontiers in Plant Science》的“Crop and Product Physiology”部分。",
+        "《大豆产量形成生理学》一文的发表时间是2021年11月15日。",
+        "作者们致力于作物产量的持续改良，特别是通过基因组编辑和精准育种方法改善作物生长速率、叶面积持续时间、种子填充期和开花期等性状，以提高作物产量。",
+        "植物育种家提高作物产量的方法是通过对作物的遗传改良，选择和培育具有更高产量的品种。这通常涉及到增加收获指数，即总生物质中转化为种子生物质的比例。文中提到，植物育种家在多年的时间里通过育种方法增加了大豆和其他作物的收获指数，从而提高了作物产量。这种产量改善和收获指数的普遍提高是植物基础生理过程变化的结果。具体的育种方法可能包括选择具有理想特性的个体植物进行杂交，以及利用现代生物技术手段直接对作物基因进行修改。",
+        "分子机制通过影响植物体内的基因和生物化学途径，进而影响植物的各种生理过程。具体来说，分子、遗传和生物化学研究揭示了基因和途径的功能，这些功能是许多生理过程的基础，这些生理过程有助于植物产量的形成。通过对这些分子机制的理解，我们可以更好地应用遗传、分子或生物化学知识来改进植物的生理过程，从而提高作物产量。",
+        "哪些基因和途径对产量潜力有贡献？\n\n对于大豆产量潜力的贡献，相关研究提到了遗传技术和育种方法。具体而言，以下是一些对大豆产量潜力有贡献的基因和途径：\n\n1. 遗传技术：通过遗传工程技术，科学家们已经成功地向大豆中引入了新的基因，这些基因有助于提高对病虫害的抵抗力，进而提高产量。\n\n以下是一些具体的文献参考：\n\n- Specht, J. E., and Williams, J. H. (1984) 的研究讨论了遗传技术对大豆产量的贡献。\n- Specht, J. E., Hume, D. J., and Kumudini, S. V. (1999) 的研究从遗传和生理学的角度探讨了大豆的产量潜力。\n- Ramachandra, D., Madappa, S., Phillips, J., Loida, P., and Karunanandaa, B. (2015) 的研究讨论了通过育种和生物技术方法提高大豆产量的途径。\n\n然而，具体的基因和途径的细节没有在这些文献摘要中明确列出。要获取具体的信息，需要查阅原文以获得详细的科研发现。因此，基于提供的信息，我不能确切地列出对产量潜力有贡献的具体基因和途径。",
+        "作物产量生理学的基础分子机制指的是影响作物产量形成的生理过程中的分子层面的作用机制。具体到基础分子机制，文中并没有提供直接的详细信息。但根据上下文可以推测，这些机制可能涉及到光合作用、营养吸收与同化等生理过程中的基因表达、蛋白质的合成及其功能，以及代谢途径的调控等。要深入了解具体的分子机制，可能需要参考文中提到的相关研究文献，例如Egli在1993年、2010年和2019年的研究。因此，基于当前提供的信息，我不能准确回答作物产量生理学的基础分子机制是什么。",
+        "作物生理与产量限制过程的分子机制涉及到影响作物生长和发育的生理过程中的生化路径和基因表达。文中提到，通过基因组编辑等精准育种方法，可以针对影响生理过程的目标基因进行操作，以改善作物产量形成的生理过程。生长限制因素（主要是各种胁迫）是限制大豆等作物高产的主要因素，这些胁迫可以影响作物在整个生长阶段的生长和发育，尤其是生殖生长期，通常会对产量造成更严重的负面影响。然而，具体的分子机制并未在提供的文本中详细描述。"
+    ],
+    "contexts": [
+        [
+            "fpls-12-719706 November 9, 2021 Time: 12:48 # 1\nREVIEW\npublished: 15 November 2021\ndoi: 10.3389/fpls.2021.719706\nEdited by:\nLuigi Lucini,\nCatholic University of the Sacred\nHeart, Italy\nReviewed by:\nBegoña Miras Moreno,\nCatholic University of the Sacred\nHeart, Italy\nValentina Buffagni,\nCatholic University of the Sacred\nHeart, Italy\n*Correspondence:\nJonathan T. Vogel\nJonathan.Vogel@basf.com\n†Present address:\nSteven J. Crafts-Brandner,\n303 Oxpens Road, Cary, NC,\nUnited States\nJoyce C. Pennycooke,",
+            "fpls-12-719706 November 9, 2021 Time: 12:48 # 13\nVogel et al. Yield Physiology for Precision Breeding\nCooper, R. L. (2003). A delayed ﬂowering barrier to higher soybean yields. Field\nCrops Res. 82, 27–35. doi: 10.1016/S0378-4290(03)00003-0\nDaynard, T. B., Tanner, J. W., and Duncan, W. G. (1971). Duration of the grain\nﬁlling period and its relation to grain yield in corn, Zea mays L .Crop Sci. 11,\n45–48. doi: 10.2135/cropsci1971.0011183X001100010015x",
+            "fpls-12-719706 November 9, 2021 Time: 12:48 # 14\nVogel et al. Yield Physiology for Precision Breeding\nKantolic, A. G., Mercau, J. L., Slafer, G. A., and Sadras, V. O. (2007). Simulated\nyield advantages of extending post-ﬂowering development at the expense of a\nshorter pre-ﬂowering development in soybean. Field Crops Res. 101, 321–330.\ndoi: 10.1016/j.fcr.2006.12.008\nKessler, A., Archontoulis, S. V., and Licht, M. A. (2020). Soybean yield and crop"
+        ],
+        [
+            "achieving the goal of using precision breeding technologies for\nyield improvement.\nAUTHOR CONTRIBUTIONS\nJV , WL, PO, SC-B, JP , and NC contributed to the background\nliterature review, writing, and editing of this manuscript.\nAll authors contributed to the article and approved the\nsubmitted version.\nFUNDING\nThe authors of this manuscript are present or former employees\nof BASF Corporation or a BASF subsidiary company.\nACKNOWLEDGMENTS\nWe kindly thank Drs. Carl Andre, Marcus Law, and Mario Sigrist",
+            "FUNDING\nThe authors of this manuscript are present or former employees\nof BASF Corporation or a BASF subsidiary company.\nACKNOWLEDGMENTS\nWe kindly thank Drs. Carl Andre, Marcus Law, and Mario Sigrist\nfor providing critical feedback on this manuscript.\nREFERENCES\nAhmar, S., Gill, R. A., Jung, K.-H., Faheem, A., Qasim, M. U., Mubeen, M., et al.\n(2020). Conventional and molecular techniques from simple breeding to speed\nbreeding in crop plants: recent advances and future outlook. Int. J. Mol. Sci.",
+            "(2015). The quest for tolerant varieties: the importance of integrating “omics”\ntechniques to phenotyping. Front. Plant Sci. 6:448. doi: 10.3389/fpls.2015.00448\nConﬂict of Interest: The authors of this manuscript are present or former\nemployees of BASF Corporation or a BASF subsidiary company.\nPublisher’s Note: All claims expressed in this article are solely those of the authors\nand do not necessarily represent those of their aﬃliated organizations, or those of"
+        ],
+        [
+            "Heart, Italy\n*Correspondence:\nJonathan T. Vogel\nJonathan.Vogel@basf.com\n†Present address:\nSteven J. Crafts-Brandner,\n303 Oxpens Road, Cary, NC,\nUnited States\nJoyce C. Pennycooke,\nFund Ventures LLC, Cary, NC,\nUnited States\nNicole Christiansen,\ntrinamiX GmbH, Ludwigshafen am\nRhein, Germany\nSpecialty section:\nThis article was submitted to\nCrop and Product Physiology,\na section of the journal\nFrontiers in Plant Science\nReceived: 02 June 2021\nAccepted: 11 October 2021\nPublished: 15 November 2021",
+            "Attribution License (CC BY). The use, distribution or reproduction in other forums\nis permitted, provided the original author(s) and the copyright owner(s) are credited\nand that the original publication in this journal is cited, in accordance with accepted\nacademic practice. No use, distribution or reproduction is permitted which does not\ncomply with these terms.\nFrontiers in Plant Science | www.frontiersin.org 15 November 2021 | Volume 12 | Article 719706",
+            "this article, or claim that may be made by its manufacturer, is not guaranteed or\nendorsed by the publisher.\nCopyright © 2021 Vogel, Liu, Olhoft, Crafts-Brandner, Pennycooke and Christiansen.\nThis is an open-access article distributed under the terms of the Creative Commons\nAttribution License (CC BY). The use, distribution or reproduction in other forums\nis permitted, provided the original author(s) and the copyright owner(s) are credited"
+        ],
+        [
+            "This article was submitted to\nCrop and Product Physiology,\na section of the journal\nFrontiers in Plant Science\nReceived: 02 June 2021\nAccepted: 11 October 2021\nPublished: 15 November 2021\nCitation:\nVogel JT, Liu W, Olhoft P ,\nCrafts-Brandner SJ, Pennycooke JC\nand Christiansen N (2021) Soybean\nYield Formation Physiology –\nA Foundation for Precision Breeding\nBased Improvement.\nFront. Plant Sci. 12:719706.\ndoi: 10.3389/fpls.2021.719706\nSoybean Yield Formation\nPhysiology – A Foundation for",
+            "Egli, D. B. (1993). Cultivar maturity and potential yield of soybean. Field Crops Res.\n32, 147–158.\nEgli, D. B. (2010). “Soybean yield physiology: principles and processes of yield\nproduction, ” in The Soybean: Botany, Production and Uses , ed. S. Guriqbal\n(Wallingford: CABI), 113–141. doi: 10.1079/9781845936440.0113\nEgli, D. B. (2019). Crop growth rate and the establishment of sink size: a\ncomparison of maize and soybean. J. Crop Improv. 33, 346–362. doi: 10.1080/\n15427528.2019.1597797",
+            "during the growing season, when temperatures are suitable for\ngrowth, and where the reproductive phase has the greatest\nimpact on ﬁnal yield. The proportion of total biomass that is\nconverted to seed biomass is the harvest index, which has been\nincreased in soybean and other crops by plant breeders over\nmany years (Evans, 1996). Crop yield improvement and the\ngeneral improvement in harvest index is the result of changes\nin underlying physiological processes (Tollenaar and Lee, 2006)"
+        ],
+        [
+            "altered fruit size, inﬂorescence branching, and plant architecture\n(Rodríguez-Leal et al., 2017). Rather than spending upfront eﬀort\nidentifying the exact change required, the authors combined the\nbest of genome editing with forward genetics. Using genome\nediting tools to create random novel allelic variation at the\ngene of interest, they then screened newly edited plants for\nthe desired trait. Only then did the researchers determine\nwhich genetic change was created and necessary. In this case,",
+            "Improvement\nJonathan T. Vogel *, Weidong Liu, Paula Olhoft, Steven J. Crafts-Brandner†,\nJoyce C. Pennycooke†and Nicole Christiansen†\nBASF Corporation, Research Triangle Park, NC, United States\nThe continued improvement of crop yield is a fundamental driver in agriculture and is\nthe goal of both plant breeders and researchers. Plant breeders have been remarkably\nsuccessful in improving crop yield, as demonstrated by the continued release of varieties",
+            "breeding-based crop improvement.\nKeywords: soybean, yield, genome editing, precision breeding, crop growth rate, leaf area duration, seed ﬁlling\nperiod, duration of ﬂowering\nFrontiers in Plant Science | www.frontiersin.org 1 November 2021 | Volume 12 | Article 719706"
+        ],
+        [
+            "Improvement\nJonathan T. Vogel *, Weidong Liu, Paula Olhoft, Steven J. Crafts-Brandner†,\nJoyce C. Pennycooke†and Nicole Christiansen†\nBASF Corporation, Research Triangle Park, NC, United States\nThe continued improvement of crop yield is a fundamental driver in agriculture and is\nthe goal of both plant breeders and researchers. Plant breeders have been remarkably\nsuccessful in improving crop yield, as demonstrated by the continued release of varieties",
+            "during the growing season, when temperatures are suitable for\ngrowth, and where the reproductive phase has the greatest\nimpact on ﬁnal yield. The proportion of total biomass that is\nconverted to seed biomass is the harvest index, which has been\nincreased in soybean and other crops by plant breeders over\nmany years (Evans, 1996). Crop yield improvement and the\ngeneral improvement in harvest index is the result of changes\nin underlying physiological processes (Tollenaar and Lee, 2006)",
+            "Ramachandra, D., Madappa, S., Phillips, J., Loida, P., and Karunanandaa, B. (2015).\n“Breeding and biotech approaches towards improving yield in soybean, ” in\nRecent Advancements in Gene Expression and Enabling Technologies in Crop\nPlants , eds K. Azhakanandam, A. Silverstone, H. Daniell, and M. R. Davey\n(New York, NY: Springer New York), 131–192. doi: 10.1007/978-1-4939-22\n02-4_4\nRamos-Giraldo, P., Reberg-Horton, C., Locke, A. M., Mirsky, S., and Lobaton,"
+        ],
+        [
+            "based selection, without speciﬁc knowledge of the molecular mechanisms underpinning\nthese improvements. Insight into molecular mechanisms has been provided by plant\nmolecular, genetic, and biochemical research through elucidation of the function of\ngenes and pathways that underlie many of the physiological processes that contribute\nto yield potential. Despite this knowledge, the impact of most genes and pathways on",
+            "even more sustainable agronomic practices. Advances from all\ncorners of the plant biology community are required to realize\ncontinued gains. Toward this goal, an understanding of crop\nyield physiology is essential to fully apply genetic, molecular, or\nbiochemical knowledge to improve the physiological processes\nunderlying crop yield formation. This is of particular importance\nfor precision breeding approaches such as genome editing, where",
+            "biochemical knowledge to improve the physiological processes\nunderlying crop yield formation. This is of particular importance\nfor precision breeding approaches such as genome editing, where\ntarget genes impacting physiological processes are required. As\nsoybean is a major crop of societal importance, it represents a\ngood model for discussing yield formation and improvement.\nSoybean ( Glycine max (L.) Merr.) is a key global commodity\nand the leading oilseed crop produced in the world. It is an"
+        ],
+        [
+            "1281663\nSpecht, J. E., and Williams, J. H. (1984). “Contribution of genetic technology to\nsoybean productivity – retrospect and prospect, ” in Genetic Contributions to\nYield Gains of Five Major Crop Plants , ed. W. R. Fehr (Madison, WI: Crop\nScience Society of America and American Society of Agronomy), 49–74. doi:\n10.2135/cssaspecpub7.c3\nSpecht, J. E., Hume, D. J., and Kumudini, S. V. (1999). Soybean yield potentialó",
+            "Ramachandra, D., Madappa, S., Phillips, J., Loida, P., and Karunanandaa, B. (2015).\n“Breeding and biotech approaches towards improving yield in soybean, ” in\nRecent Advancements in Gene Expression and Enabling Technologies in Crop\nPlants , eds K. Azhakanandam, A. Silverstone, H. Daniell, and M. R. Davey\n(New York, NY: Springer New York), 131–192. doi: 10.1007/978-1-4939-22\n02-4_4\nRamos-Giraldo, P., Reberg-Horton, C., Locke, A. M., Mirsky, S., and Lobaton,",
+            "Science Society of America and American Society of Agronomy), 49–74. doi:\n10.2135/cssaspecpub7.c3\nSpecht, J. E., Hume, D. J., and Kumudini, S. V. (1999). Soybean yield potentialó\na genetic and physiological perspective. Crop Sci. 39, 1560–1570. doi: 10.2135/\ncropsci1999.3961560x\nStewart-Brown, B. B., Song, Q., Vaughn, J. N., and Li, Z. (2019). Genomic\nselection for yield and seed composition traits within an applied soybean"
+        ],
+        [
+            "Each phase plays a role in yield formation through various\nphysiological processes that determine ﬁnal yield (Pederson\nand Licht, 2014). Yield production begins with a vegetative\ngrowth phase, starting from emergence (VE) to beginning\nbloom (R1) (Egli, 2010). In this phase, organs are formed\nthat provide the necessary machinery for producing biomass\nthrough photosynthesis and nutrient uptake and assimilation.",
+            "biochemical knowledge to improve the physiological processes\nunderlying crop yield formation. This is of particular importance\nfor precision breeding approaches such as genome editing, where\ntarget genes impacting physiological processes are required. As\nsoybean is a major crop of societal importance, it represents a\ngood model for discussing yield formation and improvement.\nSoybean ( Glycine max (L.) Merr.) is a key global commodity\nand the leading oilseed crop produced in the world. It is an",
+            "Egli, D. B. (1993). Cultivar maturity and potential yield of soybean. Field Crops Res.\n32, 147–158.\nEgli, D. B. (2010). “Soybean yield physiology: principles and processes of yield\nproduction, ” in The Soybean: Botany, Production and Uses , ed. S. Guriqbal\n(Wallingford: CABI), 113–141. doi: 10.1079/9781845936440.0113\nEgli, D. B. (2019). Crop growth rate and the establishment of sink size: a\ncomparison of maize and soybean. J. Crop Improv. 33, 346–362. doi: 10.1080/\n15427528.2019.1597797"
+        ],
+        [
+            "biochemical knowledge to improve the physiological processes\nunderlying crop yield formation. This is of particular importance\nfor precision breeding approaches such as genome editing, where\ntarget genes impacting physiological processes are required. As\nsoybean is a major crop of societal importance, it represents a\ngood model for discussing yield formation and improvement.\nSoybean ( Glycine max (L.) Merr.) is a key global commodity\nand the leading oilseed crop produced in the world. It is an",
+            "Each phase plays a role in yield formation through various\nphysiological processes that determine ﬁnal yield (Pederson\nand Licht, 2014). Yield production begins with a vegetative\ngrowth phase, starting from emergence (VE) to beginning\nbloom (R1) (Egli, 2010). In this phase, organs are formed\nthat provide the necessary machinery for producing biomass\nthrough photosynthesis and nutrient uptake and assimilation.",
+            "traits (Xavier et al., 2017a).\nAs stated earlier, soybean intrinsic yield potential is high and\ngrowth limiting factors (largely stress) are the major limitations\nto high yield across the broader regions of soybean production.\nStress can negatively impact growth and development at all\ngrowth stages, but stress during reproductive growth is generally\nmore detrimental to yield and often leads to signiﬁcant yield loss\n(Board and Kahlon, 2011; Siebers et al., 2015; Monzon et al.,"
+        ]
+    ],
+    "ground_truth": [
+        "2021年11月15日",
+        "BASF",
+        "Frontiers in Plant Science的Crop and Product Physiology部分",
+        "2021年",
+        "提高作物产量",
+        "表现型选择",
+        "通过影响与生理过程相关的基因和途径。",
+        "许多生理过程的基因和途径",
+        "基础分子机制是指影响作物产量的分子层面的过程和结构。",
+        "作物生理、育种、遗传和分子知识的整合可确定相关产量性状的精准育种目标。"
+    ]
+}
