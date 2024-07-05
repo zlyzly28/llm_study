@@ -102,10 +102,10 @@ def get_retriever_res_list(document_list, top_k = 20):
     return id_tmp
 
 
-def get_result_retrieva(col_id, r_result):
+def get_result_retrieva(col_id, r_result, topk = 10):
     rerank_evaldict = {}
 
-    for i in range(2, 10):
+    for i in range(topk):
         # print('top_', i+1)
         res_retriever_list = get_retriever_res_list(r_result, i+1)
         # print(res_retriever_list[0])

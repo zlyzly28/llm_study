@@ -1,0 +1,55 @@
+{
+    "id": [
+        0,
+        1,
+        2
+    ],
+    "source": [
+        "soybean_konw.pdf",
+        "soybean_konw.pdf",
+        "soybean_konw.pdf"
+    ],
+    "page": [
+        0,
+        0,
+        0
+    ],
+    "question": [
+        "请简述本文的发表时间。",
+        "本文第一作者的工作单位是什么？",
+        "该文章发表在哪个期刊的哪个部分？"
+    ],
+    "ground_truth": [
+        "2021年11月15日",
+        "BASF",
+        "Frontiers in Plant Science的Crop and Product Physiology部分"
+    ],
+    "context": [
+        "fpls-12-719706 November 9, 2021 Time: 12:48 # 1\nREVIEW\npublished: 15 November 2021\ndoi: 10.3389/fpls.2021.719706\nEdited by:\nLuigi Lucini,\nCatholic University of the Sacred\nHeart, Italy\nReviewed by:\nBegoña Miras Moreno,\nCatholic University of the Sacred\nHeart, Italy\nValentina Buffagni,\nCatholic University of the Sacred\nHeart, Italy\n*Correspondence:\nJonathan T. Vogel\nJonathan.Vogel@basf.com\n†Present address:\nSteven J. Crafts-Brandner,\n303 Oxpens Road, Cary, NC,\nUnited States\nJoyce C. Pennycooke,",
+        "Heart, Italy\n*Correspondence:\nJonathan T. Vogel\nJonathan.Vogel@basf.com\n†Present address:\nSteven J. Crafts-Brandner,\n303 Oxpens Road, Cary, NC,\nUnited States\nJoyce C. Pennycooke,\nFund Ventures LLC, Cary, NC,\nUnited States\nNicole Christiansen,\ntrinamiX GmbH, Ludwigshafen am\nRhein, Germany\nSpecialty section:\nThis article was submitted to\nCrop and Product Physiology,\na section of the journal\nFrontiers in Plant Science\nReceived: 02 June 2021\nAccepted: 11 October 2021\nPublished: 15 November 2021",
+        "This article was submitted to\nCrop and Product Physiology,\na section of the journal\nFrontiers in Plant Science\nReceived: 02 June 2021\nAccepted: 11 October 2021\nPublished: 15 November 2021\nCitation:\nVogel JT, Liu W, Olhoft P ,\nCrafts-Brandner SJ, Pennycooke JC\nand Christiansen N (2021) Soybean\nYield Formation Physiology –\nA Foundation for Precision Breeding\nBased Improvement.\nFront. Plant Sci. 12:719706.\ndoi: 10.3389/fpls.2021.719706\nSoybean Yield Formation\nPhysiology – A Foundation for"
+    ],
+    "retriever_result_list": [
+        [
+            297,
+            299,
+            298,
+            242,
+            0
+        ],
+        [
+            297,
+            296,
+            299,
+            298,
+            202
+        ],
+        [
+            299,
+            297,
+            0,
+            242,
+            284
+        ]
+    ]
+}
