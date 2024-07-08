@@ -1,0 +1,72 @@
+{
+    "top_1": {
+        "ht_score": 0.1,
+        "mmr_score": 0.1,
+        "soft_ht_score": 0.5,
+        "soft_mmr_score": 0.5,
+        "ndcg": 0.5
+    },
+    "top_2": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.6,
+        "ndcg": 0.543
+    },
+    "top_3": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.6,
+        "ndcg": 0.543
+    },
+    "top_4": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.6,
+        "ndcg": 0.543
+    },
+    "top_5": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.6,
+        "ndcg": 0.543
+    },
+    "top_6": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.6,
+        "ndcg": 0.543
+    },
+    "top_7": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.6,
+        "ndcg": 0.543
+    },
+    "top_8": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.613,
+        "ndcg": 0.531
+    },
+    "top_9": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.613,
+        "ndcg": 0.531
+    },
+    "top_10": {
+        "ht_score": 0.3,
+        "mmr_score": 0.2,
+        "soft_ht_score": 0.6,
+        "soft_mmr_score": 0.613,
+        "ndcg": 0.531
+    }
+}
